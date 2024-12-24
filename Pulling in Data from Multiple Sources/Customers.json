@@ -1,0 +1,102 @@
+[
+  {
+    "customer_id": "100101",
+    "first_name": "Kevin",
+    "last_name": "Malone",
+    "birth_date": "4/28/1989",
+    "phone": "635-573-9754",
+    "address": "1229 Main Street",
+    "city": "Scranton",
+    "state": "PA"
+  },
+  {
+    "customer_id": "100102",
+    "first_name": "Charles",
+    "last_name": "Xavier",
+    "birth_date": "4/11/1965",
+    "phone": "729-287-9456",
+    "address": "123 North Hill Drive",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "customer_id": "100103",
+    "first_name": "Finley",
+    "last_name": "Danish",
+    "birth_date": "2/7/1999",
+    "phone": "126-583-7856",
+    "address": "432 Hilly Road",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "customer_id": "100104",
+    "first_name": "Obi",
+    "last_name": "Kenobi",
+    "birth_date": "4/2/1921",
+    "phone": "975-357-7663",
+    "address": "101 Alpine Avenue",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "customer_id": "100105",
+    "first_name": "Don",
+    "last_name": "Draper",
+    "birth_date": "11/7/1948",
+    "phone": "",
+    "address": "12 South Main Lane",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  {
+    "customer_id": "100106",
+    "first_name": "Frodo",
+    "last_name": "Baggins",
+    "birth_date": "9/4/2001",
+    "phone": "",
+    "address": "1 Pastry Lane",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "customer_id": "100107",
+    "first_name": "Michael",
+    "last_name": "Scott",
+    "birth_date": "8/20/1978",
+    "phone": "235-357-3464",
+    "address": "987 Croissant Street",
+    "city": "Scranton",
+    "state": "PA"
+  },
+  {
+    "customer_id": "100108",
+    "first_name": "Maggie",
+    "last_name": "Muffin",
+    "birth_date": "7/6/2001",
+    "phone": "906-485-1542",
+    "address": "701 North Street",
+    "city": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "customer_id": "100109",
+    "first_name": "Kelly",
+    "last_name": "Kapoor",
+    "birth_date": "5/30/1987",
+    "phone": "674-357-9151",
+    "address": "62810 Julip Lane",
+    "city": "Scranton",
+    "state": "PA"
+  },
+  {
+    "customer_id": "100110",
+    "first_name": "Anakin",
+    "last_name": "Skywalker",
+    "birth_date": "10/15/1934",
+    "phone": "346-458-3370",
+    "address": "122 South Street",
+    "city": "Charleston",
+    "state": "SC"
+  }
+]
